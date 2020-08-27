@@ -16,7 +16,7 @@ I'm a computer engineer passionate about programming seeking the best way to imp
 ![icons8-react-50](https://user-images.githubusercontent.com/11820690/87189445-08320e00-c2c7-11ea-8301-e6c929daa087.png)
 ![icons8-react-native-50](https://user-images.githubusercontent.com/11820690/87189443-07997780-c2c7-11ea-8941-443e5ded2234.png)
 
-
+![](https://github-readme-stats.vercel.app/api?username=thales-goncalves)
 <!--
 **thales-goncalves/thales-goncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
